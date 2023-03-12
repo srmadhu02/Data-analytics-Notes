@@ -481,3 +481,7 @@ Column names are attributes.
 
 **Formula -** Formulas are like a calculator, but more powerful. A formula is a set of instructions that performs a specific action using the data in a spreadsheet. To do this, the formula uses cell references for the values it's calculating.
 
+
+
+
+
