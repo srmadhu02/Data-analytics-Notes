@@ -2,6 +2,12 @@
 
 Data analysts use data visualizations to explain complex data quickly, reinforce data analysis, and create interesting graphs and charts.
 
+Data visualizations are pictures, they are a wonderful way to take very basic ideas around data and data points and make them come alive. You can do all different types of combinations of visualizations, but the ones that are interactive, wow, those are huge.
+
+#### Pie chart VS Column chart
+
+Pie chart shows how a whole is broken down into parts and is an effective visualization for a class broken down by age. A column chart shows categories and is an effective visualization for the ages of males versus females.
+
 ### Steps to plan a data visualization
 
 #### Step 1: Explore the data for patterns
