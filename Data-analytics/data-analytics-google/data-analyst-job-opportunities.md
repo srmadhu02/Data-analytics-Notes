@@ -28,3 +28,5 @@ A **question** is designed to discover information and a **problem** is an obsta
 A business task is the question or problem data analysis answers for business.
 
 **Data-driven decision-making** is when facts that have been discovered through data analysis are used to guide business strategy.
+
+**Fairness** means ensuring that your analysis doesn't create or reinforce bias. In other words, as a data analyst, you want to help create systems that are fair and inclusive to everyone.
