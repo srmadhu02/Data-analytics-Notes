@@ -21,12 +21,11 @@ Other industry-specific specialist positions that you might come across in your 
 
 
 
-\
-Question 1
 
-Scenario 1, question 1-5
 
-You’ve just started a new job as a data analyst for a midsized pharmacy chain with 38 stores in the American Southwest. Your supervisor shares a new data analysis project with you.
+**Scenario 1, question 1-5**
+
+You’ve just started a new job as a data analyst. You’re working for a midsized pharmacy chain with 38 stores in the American Southwest. Your supervisor shares a new data analysis project with you.
 
 She explains that the pharmacy is considering discontinuing a bubble bath product called Splashtastic. Your supervisor wants you to analyze sales data and determine what percentage of each store’s total daily sales come from that product. Then, you’ll present your findings to leadership.
 
@@ -34,19 +33,19 @@ You know that it's important to follow each step of the data analysis process: a
 
 One of the questions you ask is where to find the dataset you’ll be working with. Your supervisor explains that the company database has all the information you need.
 
-Next, you continue to the prepare step. You access the database and write a query to retrieve data about Splashtastic. You notice that there are only 38 rows of data, representing the company’s 38 stores. In addition, your dataset contains five columns: Store Number, Average Daily Customers, Average Daily Splashtastic Sales (Units), Average Daily Splashtastic Sales (Dollars), and Average Total Daily Sales (All Products). You decide to use a spreadsheet to work with the data because you know that spreadsheets work well for processing and analyzing a small dataset, like the one you’re using.
+Next, you continue to the prepare step. You access the database and write a query to retrieve data about Splashtastic. You notice that there are only 38 rows of data, representing the company’s 38 stores. In addition, your dataset contains five columns: Store Number, Average Daily Customers, Average Daily Splashtastic Sales (Units), Average Daily Splashtastic Sales (Dollars), and Average Total Daily Sales (All Products).
 
-**Fill in the blank: To get the data from the database into a spreadsheet, you would first \_\_\_\_\_ the data as a .CSV file, then import it into a spreadsheet.**
+**Considering the size of your dataset, you decide to download the data, then import it into a spreadsheet. What step of the data analysis process are you in?**
 
 1 / 1 point
 
-download
+Analyze
 
-email
+#### Process
 
-print
+Copy
 
-copy and paste
+Destroy
 
 Correct
 
@@ -58,7 +57,7 @@ Question 2
 
 You’ve downloaded the data from your company database and imported it into a spreadsheet. To use the dataset for this scenario, click the link below and select “Use Template.”
 
-Link to template: [Course Challenge - Scenario 1](https://docs.google.com/spreadsheets/d/1pIiGuiZ8SZ2xNfXHEIIb5gpX1NNOuKAUbaqtmPh1GUY/template/preview?resourcekey=0-p4GIOWHIaC6wZTvc9HZzyA#gid=0)
+[Course Challenge - Scenario 1](https://docs.google.com/spreadsheets/d/1pIiGuiZ8SZ2xNfXHEIIb5gpX1NNOuKAUbaqtmPh1GUY/template/preview?resourcekey=0-p4GIOWHIaC6wZTvc9HZzyA#gid=0)
 
 OR
 
@@ -66,23 +65,15 @@ If you don’t have a Google account, you can download the template directly fro
 
 [Course Challenge Dataset - Scenario 1 - Scenario 1\_ Pharmacy Data - Part 1CSV File](https://d3c33hcgiwev3.cloudfront.net/jgOcTMW9S-uDnEzFvfvrYQ\_c46ee66727424d2298e2ff73090392f1\_Course-Challenge-Dataset---Scenario-1---Scenario-1\_-Pharmacy-Data---Part-1.csv?Expires=1679270400\&Signature=g3UbnpxqReNMl\~cdjZfA0JNdKewpu\~HtvTtz2KuKk3WN1wvcl6\~Otqcc503McRd3yQGIgmfLxUzwSvWU-Qf4GQS0DKzdrnPLF7ekJB36KIQbzxeJG8e2XqYCl8t-dbBTFW8OQhYBJLkhANrZD1l4ddkcOmTMihAMuosnKuiB2Xg\_\&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
 
-<figure><img src="https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/dVuIRwzdTUibiEcM3V1INg_93ac3942fb2e40e9b9fe4fd8b44e22f6_dotted-line-right.png?expiry=1679270400000&#x26;hmac=Qjk40hLMGy21EzmDPIDZdGqs50x2K5kUEC5NZySBJ6U" alt=""><figcaption></figcaption></figure>
+Now, it’s time to process the data. As you know, this step involves finding and eliminating errors and inaccuracies that can get in the way of your results. **While cleaning the data, you notice that information about Splashtastic is missing in one of the rows. You are unsure of how to proceed, so the best course of action is to ask your supervisor for guidance.**
 
-Now, it’s time to process the data. As you know, this step involves finding and eliminating errors and inaccuracies that can get in the way of your results. **While cleaning the data, you notice that information about Splashtastic is missing in row 16. Which of the following would be an appropriate response?**
+1 / 1 point
 
-0 / 1 point
+#### True
 
-Sort the spreadsheet so the row with missing data is at the bottom.
+False
 
-Ask your supervisor for guidance.
-
-Delete the row with the missing data point.
-
-Replace the row with the average values of the other data points.
-
-Incorrect
-
-Review[ the section on the data analysis process](https://www.coursera.org/learn/foundations-data/home/week/3) for a refresher.
+Correct
 
 #### 3.
 
@@ -90,19 +81,19 @@ Question 3
 
 **Scenario 1 continued**
 
-Once you’ve found the missing information, you analyze your dataset. During analysis, you create a new column F. You label the top of the column Average Percentage of Total Sales - Splashtastic.
+Once you’ve found the missing information, you analyze your dataset.
 
-**Fill in the blank: The column label you add to column F is known as \_\_\_\_\_\_.**
+**During analysis, you create a new column F. At the top of the column, you add: Average Percentage of Total Sales - Splashtastic. What is this column label called?**
 
 1 / 1 point
 
-an attribute
+A title
 
-a reference
+A reference
 
-an observation
+#### An attribute
 
-a title
+A headline
 
 Correct
 
@@ -112,17 +103,17 @@ Question 4
 
 **Scenario 1 continued**
 
-Next, you determine the average total daily sales over the past 12 months at all stores. The range that contains these sales is E2:E39. To do this, you use a function. **You input =AVE(E2:E39), but this returns an error. What is the correct command?**
+Next, you determine the average total daily sales over the past 12 months at all stores, The range that contains these sales is E2:E39. To do this, you use a function. **Fill in the blank to complete the function correctly: =\_\_\_\_\_ (E2:E39).**
 
 1 / 1 point
 
-\=AVERAGE(E2-E39)
+SALES
 
-\=AVERAGE(E2+E39)
+TOTAL
 
-\=AVERAGE(E2:E39)
+SUM
 
-\=AVERAGE(E2,E29)
+#### AVERAGE
 
 Correct
 
@@ -134,19 +125,17 @@ Question 5
 
 **Next, you create a slideshow, which includes a data visualization to highlight the Splashtastic sales insights you've discovered. You’ve reached which phase of the data analysis process?**
 
-0 / 1 point
+1 / 1 point
 
-Act
-
-Share
-
-Analyze
+#### Share
 
 Manage
 
-Incorrect
+Act
 
-Review [the video on the data analysis process](https://www.coursera.org/learn/foundations-data/lecture/JjA1f/six-phases-of-data-analysis) for a refresher.
+Analyze
+
+Correct
 
 #### 6.
 
@@ -164,19 +153,21 @@ Your supervisor has just sent you an email saying that you’re doing very well 
 
 An NDS member with three dental offices in Colorado offers to share its data on missed appointments. So, your supervisor uses a database query to access the dataset from the dental group. The query instructs the database to retrieve all patient information from the member’s three dental offices, located in zip code 81137.
 
-**The table is dental\_data\_table, and the column name is zip\_code. You write the following query, but get an error. What statement will correct the problem?**
+**The table is dental\_data\_table, and the column name is zip\_code. You have written the following query, but received an error when it ran.**
 
-SELECT \* FROM dental\_data\_table WHERE zip code = 81137
+SELECT \* FROM dental\_data\_table WHERE dental\_data\_table = 81137
+
+**Given the objective of the query, where is the mistake in this query?**
 
 1 / 1 point
 
-WHERE zip\_code = 81137
+In line 2, dental\_data\_table should be replaced with zip\_code 81137.
 
-zip\_code = 81137
+#### In line 3, dental\_data\_table should be replaced with zip\_code.
 
-WHERE 81137
+SELECT, FROM, and WHERE should _not_ be capitalized.
 
-WHERE\_zip code = 81137
+The third line should be WHERE = 81137
 
 Correct
 
@@ -202,7 +193,7 @@ The patient demographic information includes data such as age and gender. As you
 
 1 / 1 point
 
-True
+**True**
 
 False
 
@@ -222,21 +213,19 @@ So, you do some research online and discover that people over the age 60 are 50%
 
 With this new knowledge, you write an email to your supervisor expressing your concerns about the dataset. He agrees with your concerns, but he’s also impressed with what you’ve learned and thinks your findings could be very important to the project. He asks you to change the business task. Now, the NDS campaign will be about educating dental offices on the challenges faced by senior citizens and finding ways to help them access quality dental care.
 
-**The business task has changed. What is the nature of that change?**
+**Fill in the blank: \_\_\_\_\_ the business task involves defining a new question or problem to be solved.**
 
-0 / 1 point
+1 / 1 point
 
-Creating a graphical representation of the data
+Strategizing
 
-Using a database instead of a spreadsheet
+Analyzing
 
-Conducting a gap analysis
+**Changing**
 
-Defining the new question or problem to be solved
+Sharing
 
-Incorrect
-
-Review[ the video on business tasks](https://www.coursera.org/learn/foundations-data/lecture/wkLDN/the-power-of-data-in-business) for a refresher.
+Correct
 
 #### 9.
 
@@ -248,17 +237,17 @@ You continue with your analysis. In the end, your findings support what you disc
 
 But you’re not done yet. You know that data should be combined with human insights in order to lead to true data-driven decision-making. So, your next step is to share this information with people who are familiar with the problem professionally. They’ll help verify the results of your data analysis.
 
-**Fill in the blank: Subject matter experts are people who are familiar with a problem. They can help by \_\_\_\_\_, offering insights into the business problem, and validating the choices being made.**
+**Fill in the blank: Subject matter experts are people who are familiar with a problem. They can help by identifying inconsistencies in the analysis, offering insights into the business problem, and \_\_\_\_\_.**
 
 1 / 1 point
-
-identifying inconsistencies in the analysis
-
-creating a presentation with the data
 
 redefining the business problem
 
 collecting data relevant to the business problem
+
+creating a presentation with the data
+
+**validating the choices being made**
 
 Correct
 
@@ -268,21 +257,17 @@ Question 10
 
 **Scenario 2 continued**
 
-The subject-matter experts are impressed by your analysis. The team agrees to move to the next step: data visualization. You know it’s important that stakeholders at NDS can quickly and easily understand that older people are less likely to attend important follow-up dental appointments than younger people. This will help them create an effective campaign for members.
+The subject-matter experts are impressed by your analysis. The team agrees to move to the next step: data visualization. You know it’s important that stakeholders at NDS can quickly and easily understand that older people are less likely to attend important follow-up dental appointments. This will help them create an effective campaign for members.
 
-It’s time to create your presentation to stakeholders. It will include a data visualization that demonstrates the lifetime trend of people being less likely to attend follow-up appointments as they get older.
+It’s time to create your presentation to stakeholders. It will include a data visualization that depicts the relationship between age and follow-up dental appointment attendance rates over a lifetime.
 
-**You recognize that this data is given in series. What type of data visualization is most effective to visualize this data?**
+**A doughnut chart will be the most effective visualization of this data.**
 
 1 / 1 point
 
-A line chart
+True
 
-A table
-
-A doughnut chart
-
-A box plot
+**False**
 
 Correct\
 
